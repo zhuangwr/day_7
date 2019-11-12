@@ -1,0 +1,8 @@
+2019-11-12 10:52:07,746 INFO [root] [Test_iHRM_Emp.py(test_add:32)] - 新增员工信息
+2019-11-12 10:52:07,770 WARNING [root] [Test_iHRM_Emp.py(test_update:49)] - 修改员工信息
+2019-11-12 10:52:07,796 INFO [root] [Test_iHRM_Emp.py(test_get:63)] - 获取员工信息
+2019-11-12 10:52:07,821 WARNING [root] [Test_iHRM_Emp.py(test_delete:77)] - 删除员工信息
+2019-11-12 10:56:55,744 INFO [root] [Test_iHRM_Emp.py(test_add:32)] - 新增员工信息
+2019-11-12 10:56:55,767 WARNING [root] [Test_iHRM_Emp.py(test_update:49)] - 修改员工信息
+2019-11-12 10:56:55,798 INFO [root] [Test_iHRM_Emp.py(test_get:63)] - 获取员工信息
+2019-11-12 10:56:55,821 WARNING [root] [Test_iHRM_Emp.py(test_delete:77)] - 删除员工信息
